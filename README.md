@@ -1,5 +1,3 @@
-# OmniHarness
-A Multi-Agent Framework for Intelligent Incident Investigation
 
 # OmniHarness
 
