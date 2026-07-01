@@ -71,3 +71,4 @@ The framework is designed to provide:
 The primary objective of OmniHarness is to understand and implement the core concepts behind modern agent orchestration frameworks by building them from scratch. While the first implementation focuses on AI-powered incident investigation, the framework is designed to support additional enterprise workflows in the future.
 
 This project is being developed in public as a learning journey to explore the architecture, design, and engineering principles behind production-grade multi-agent AI systems.
+building together
